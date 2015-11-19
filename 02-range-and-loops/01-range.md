@@ -29,8 +29,8 @@
 Make sure you have pushed your lists exercises before making any commits on GitHub, otherwise you will have to make a merge commit later.*
 
 1. What does `range` do with a single argument?
-  * [Your answer here]
+  * prints 0 to "range" number -1
 2. What do the arguments mean if there are 2?
-  * [Your answer here]
+  * prints first number to (second range number -1)
 3. What does the third argument mean?
-  * [Your answer here]
+  * counts forward or back by the 3rd number
